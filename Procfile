@@ -1,1 +1,1 @@
-web: gunicorn hotspotlk:app
+web: gunicorn app:app
