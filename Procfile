@@ -1,1 +1,1 @@
-web: gunicorn hotspotlk.wsgi --log-file -
+web: gunicorn hotspotlk:app
